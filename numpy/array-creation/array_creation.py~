@@ -1,0 +1,6 @@
+import numpy as np
+
+inList = [1,2.3,4,5.6,7]
+outArr = np.array(inList)
+print outArr
+
