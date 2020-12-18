@@ -1,0 +1,5 @@
+import numpy as np
+
+a = numpy.loadtxt('xy-coordinates.dat')
+print a
+
